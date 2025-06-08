@@ -14,3 +14,16 @@ AWS SES – Email receipt summaries
 AWS Lambda (Python 3.9) – Glue everything together
 
 ![image](https://github.com/user-attachments/assets/55458cd7-822d-46cf-8e0d-b46f10a32572)
+
+
+                                    BackGround Action in DynamoDB
+
+  ![Output Receipts Duration](https://github.com/user-attachments/assets/1031b125-147c-41c6-b35d-b1b447de6dba)
+
+
+                                    Output of Email Received
+                                    
+The summary is sent to registered email using the Amazon SES which summarize the Receipt automatically.
+
+![Email Summary](https://github.com/user-attachments/assets/2b08da38-19fd-4995-91e3-fdcac025e0ac)
+
